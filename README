@@ -1,0 +1,6 @@
+// UTILISATION DU BINAIRE : \\
+
+       ./wolf3D map
+
+
+(map modifiable, affichage de map dans le terminal)
